@@ -1,0 +1,10 @@
+C:\D\1_Обучение\C#\appLang\app\app\bin\Debug\app.exe.config
+C:\D\1_Обучение\C#\appLang\app\app\bin\Debug\app.exe
+C:\D\1_Обучение\C#\appLang\app\app\bin\Debug\app.pdb
+C:\D\1_Обучение\C#\appLang\app\app\bin\Debug\Newtonsoft.Json.dll
+C:\D\1_Обучение\C#\appLang\app\app\bin\Debug\Newtonsoft.Json.xml
+C:\D\1_Обучение\C#\appLang\app\app\obj\Debug\app.csprojAssemblyReference.cache
+C:\D\1_Обучение\C#\appLang\app\app\obj\Debug\app.csproj.CoreCompileInputs.cache
+C:\D\1_Обучение\C#\appLang\app\app\obj\Debug\app.csproj.CopyComplete
+C:\D\1_Обучение\C#\appLang\app\app\obj\Debug\app.exe
+C:\D\1_Обучение\C#\appLang\app\app\obj\Debug\app.pdb
